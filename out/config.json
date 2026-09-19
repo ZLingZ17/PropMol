@@ -1,0 +1,6 @@
+{
+    "input_file": ".out/exa.txt",
+    "k": 2,
+    "n_generate": 10,
+    "properties": ["FractionCSP3"]
+}

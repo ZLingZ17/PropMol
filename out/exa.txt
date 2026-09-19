@@ -1,0 +1,5 @@
+N#Cc1cccc(C(=O)N2CC[C@@]3(CN(C(=O)c4cnc5[nH]ncc5c4)CCO3)C2)c1Cl
+C[C@@H](O)[C@H](NS(=O)(=O)c1cccs1)C(=O)NCc1ccc(C#N)cc1F
+N#Cc1cc(NC(=O)NC[C@H]2CCCN2CC(F)(F)F)ccn1
+N#Cc1c(NCCOC[C@@H]2CCOC2)nc2c(c1C#N)CCCCCC2
+Cc1cc(C)n(-c2ccccc2NC(=O)N2C[C@@H](C#N)[C@]3(C2)C(=O)Nc2ccccc23)n1
